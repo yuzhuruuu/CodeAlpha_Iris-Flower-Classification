@@ -59,7 +59,8 @@ jupyter notebook CodeAlpha_Iris_Classification.ipynb
 
 ```
 CodeAlpha_Iris_Classification/
-├── CodeAlpha_Iris_Classification.ipynb   # Notebook utama
+├── Iris_Classification.ipynb             # Notebook utama
+├── Iris.csv                              # Dataset
 ├── README.md                             # Dokumentasi proyek
 └── requirements.txt                      # Daftar dependencies
 ```
